@@ -1,11 +1,11 @@
 # ZeroLink
 
-基于 Shizuku 和 WebRTC 的 Android 远程控制应用。
+基于 Shizuku 的 Android 远程控制应用。
 
 ## 功能特性
 
 - 局域网设备发现
-- WebRTC 视频流传输
+- 视频流传输
 - 远程输入注入
 - 基于 Shizuku 的系统权限
 
