@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZeroLink 控制端</string>
+    <string name="controller_state_idle">等待画面回声，像晨雾里的灯塔。</string>
+    <string name="controller_action_connect">建立控制链路</string>
+    <string name="controller_action_tap">发送点击意图</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZeroLink 受控端</string>
+    <string name="controlled_state_idle">静待连接，像夜海收起浪声。</string>
+    <string name="controlled_action_bootstrap">启动引擎握手</string>
+    <string name="controlled_action_ping">执行活性探测</string>
+</resources>
